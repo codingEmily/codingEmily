@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @codingEmily
 - 👀 I’m interested in becoming a frontend software dev (and maybe designer too)
 - 🌱 I’m currently learning the basics of software development
-- 💞️ I’m looking to collaborate on small projects
-- 📫 Want to collaberate on a project? Contact me at devemployed@gmail.com
+- 📫 I’m interested in collaborating on small projects
 - ⚡ Fun fact: I like money, people, art, math, logic, and the dependable hope of each new day. (for when you are sad >> Matthew 11:28-20)
 
 <!---
