@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @codingEmily
 - 📚 I'm currently taking a project-heavy course in *Frontend Software Development* 🖥️ Project Updates @ www.linkedin.com/in/emily-c-2285a9277.
-- 👩‍🎓💯 I'm already certified in UI-UX and am on track to be certified in Frontend Development by the end of September, 2025.
-- 💼👩🏻‍💻☕ I want to be applying to *Web Development* roles by the end of 2025
+- 👩‍🎓💯 I'm already certified in UI-UX (3 month course) and am on track to be *certified in Frontend Software Development* (1.5 years) by the end of September, 2025.
+- 💼👩🏻‍💻☕ I want to be applying to Web Development roles by the end of 2025
 - 🫵 Reach out if you're interested in collaberating on a project
 - ⚡📝💯🎨🚶🧮💵 Interests: budgeting (yes, I'm serious), existing near people (I'm a yapper, but working on those soft skills), art, math, and logic
 - 
-- The Dependable Hope of Each New Day -- Jesus Christ 🌟
+- The Dependable Hope of Each New Day -- Jesus Christ
 - 
 - Hebrews 6:19 “Which hope we have as an anchor of the soul, both sure and stedfast, and which entereth into that within the veil”
 - 
